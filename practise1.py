@@ -1,2 +1,4 @@
-print("Hello world")
-print(4+5)
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
